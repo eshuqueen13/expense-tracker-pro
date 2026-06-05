@@ -1,2 +1,17 @@
-# expense-tracker-pro
-A modern Expense Tracker built using HTML, CSS, and JavaScript with transaction management and responsive design.
+#Expense tracker pro
+
+Features:
+- Income & Expense Tracking
+- Category Management
+- Search Transactions
+- Dark Mode
+- Local Storage
+- Responsive Design
+
+Technologies:
+- HTML5
+- CSS3
+- JavaScript
+
+Author:
+Eswari
